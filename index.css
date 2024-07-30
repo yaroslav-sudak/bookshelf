@@ -1,6 +1,6 @@
 @import "styles/normalize.css";
 
-.background {
+#background {
   background-image: url(assets/images/background.jpg);
   min-height: calc(100vh - 240px);
   padding-top: 240px;

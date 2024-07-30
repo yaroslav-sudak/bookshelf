@@ -10,6 +10,10 @@ let c = true;
 // Array
 let d = [1, 2, 3];
 
+d[2] == 3;
+d[2] = 16;
+d[2] == 16;
+
 // Object
 let e = {
   a: 1,
