@@ -16,4 +16,6 @@ books.push(
 books.push(
   createBook({ title: "Da", pages: 200, author: "author2", color: "color2" })
 );
+books.push(
+  createBook({ title: "piece", pages: 300, author: "author3", color: "color3" }))
 console.log(books);
